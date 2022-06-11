@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <title> html table background color</title>
+<body>
+    <table border="1 bgcolor="yellow"> 
+        <tr> 
+<th>  name</th>
+<th>math marks </th>
+<th>eng marks </th>
+</tr>
+<tr>
+<td>swatantra kumar</td>            
+<td>53</td>
+<td>59</td>
+</tr>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </head>
